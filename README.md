@@ -9,7 +9,7 @@
 ## 🔧 Skills
 - Python (Beginner → Improving daily)
 - Data Structures & Algorithms (Learning)
-- HTML & CSS (Basics)
+- HTML & CSS, JavaScript (Basics)
 
 ---
 
